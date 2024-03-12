@@ -1,6 +1,5 @@
 {
-"db":{
-    "infoObj":[
+    "infoObj": [
         {
             "icon": "shopping_cart",
             "count": 345,
@@ -22,5 +21,4 @@
             "title": "New Users"
         }
     ]
-}   
 }
