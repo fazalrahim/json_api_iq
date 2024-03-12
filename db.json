@@ -20,5 +20,43 @@
             "count": 240,
             "title": "New Users"
         }
+    ],
+    "blogObj": [
+        {
+            "imgPath": "assets/images/blog.png",
+            "title": "Blog 1",
+            "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "date": "12 march 2023",
+            "dateicon": "schedule",
+            "username": "User 1",
+            "usericon": "person_2"
+          },
+          {
+            "imgPath": "assets/images/blog.png",
+            "title": "Blog 2",
+            "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "date": "12 march 2023",
+            "dateicon": "schedule",
+            "username": "User 2",
+            "usericon": "person_2"
+          },
+          {
+            "imgPath": "assets/images/blog.png",
+            "title": "Blog 3",
+            "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "date": "12 march 2023",
+            "dateicon": "schedule",
+            "username": "User 3",
+            "usericon": "person_2"
+          },
+          {
+            "imgPath": "assets/images/blog.png",
+            "title": "Blog 4",
+            "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "date": "12 march 2023",
+            "dateicon": "schedule",
+            "username": "User 4",
+            "usericon": "person_2"
+          }
     ]
 }
