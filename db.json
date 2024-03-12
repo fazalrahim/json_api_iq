@@ -116,21 +116,21 @@
         },
         {
             "profilePic": "assets/images/profile-img.png",
-            "name": "User 21",
+            "name": "User 10",
             "designation": "Computer Science",
-            "joiningDate": "12 March 2023"
+            "joiningDate": "21 March 2023"
         },
         {
             "profilePic": "assets/images/profile-img.png",
-            "name": "User 22",
+            "name": "User 11",
             "designation": "Petroleum Engineer",
-            "joiningDate": "12 March 2023"
+            "joiningDate": "22 March 2023"
         },
         {
             "profilePic": "assets/images/profile-img.png",
-            "name": "User 23",
+            "name": "User 12",
             "designation": "Computer Science",
-            "joiningDate": "12 March 2023"
+            "joiningDate": "23 March 2023"
         }
     ]
 }
